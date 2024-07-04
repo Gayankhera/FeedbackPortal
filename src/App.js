@@ -1,11 +1,12 @@
 import './App.css';
-import SignUpFour from './components/Signup';
+import Login from './components/Login';
+import Nav from './components/Nav'
 
 
 function App() {
   return (
     <>
-     <SignUpFour/>
+    
     </>
   );
 }

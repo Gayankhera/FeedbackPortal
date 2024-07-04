@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function SignUpFour() {
   return (
-    <section className=" bg-black/10">
-      <div className="flex items-center justify-center bg-white px-4 py-10 sm:px-6 sm:py-10 lg:px-8">
-        <div className="xl:mx-auto p-4 xl:w-full xl:max-w-sm 2xl:max-w-md border shadow-2xl">
+    <section className=" bg-white">
+      <div className="flex items-center justify-center bg-white px-2 py-8 sm:px-6 sm:py-5 lg:px-8">
+        <div className=" p-4 xl:w-full xl:max-w-sm 2xl:max-w-md border shadow-2xl">
           <div className="mb-2">
             <svg
               width="50"
